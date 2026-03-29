@@ -159,4 +159,110 @@ All orders:
 10. [2025-01-04] Order #10 — ₹270.00 — Items: Paneer Tikka, Gulab Jamun
 11. [2025-01-05] Order #11 — ₹490.00 — Items: Butter Chicken, Gulab Jamun, Garlic Naan
 12. [2025-01-05] Order #12 — ₹260.00 — Items: Paneer Tikka, Rasgulla
+(base) nikitapatwari@Nikitas-MacBook-Air untitled folder % /usr/local/bin/python3 "/Users/nikitapatwari/Desktop/untitled folder/
+part1_grade_tracker.py"
+
+TASK 1 — Data Parsing & Profile Cleaning
+--------------------------------------------------
+================================
+Student : Ayesha Sharma
+Roll No : 101
+Marks   : [88, 72, 95, 60, 78]
+✓ Valid name
+================================
+================================
+Student : Rohit Verma
+Roll No : 102
+Marks   : [55, 68, 49, 72, 61]
+✓ Valid name
+================================
+================================
+Student : Priya Nair
+Roll No : 103
+Marks   : [91, 85, 88, 94, 79]
+✓ Valid name
+================================
+================================
+Student : Karan Mehta
+Roll No : 104
+Marks   : [40, 55, 38, 62, 50]
+✓ Valid name
+================================
+================================
+Student : Sneha Pillai
+Roll No : 105
+Marks   : [75, 80, 70, 68, 85]
+✓ Valid name
+================================
+
+Roll number 103 name formats:
+ALL CAPS  : PRIYA NAIR
+lowercase : priya nair
+
+TASK 2 — Marks Analysis Using Loops & Conditionals
+--------------------------------------------------
+
+Student Name: Ayesha Sharma
+
+Subject-wise Grades:
+Math       : 88 -> A
+Physics    : 72 -> B
+CS         : 95 -> A+
+English    : 60 -> C
+Chemistry  : 78 -> B
+
+Summary:
+Total marks            : 393
+Average marks          : 78.6
+Highest scoring subject: CS (95)
+Lowest scoring subject : English (60)
+
+Add new subjects (type 'done' to stop)
+Enter subject name: biology
+Enter marks for biology (0-100): 86
+biology added successfully.
+
+Enter subject name: done
+
+Updated Result:
+New subjects added : 1
+Updated average    : 79.83
+
+TASK 3 — Class Performance Summary
+--------------------------------------------------
+Name               | Average | Status
+----------------------------------------
+Ayesha Sharma      | 78.60   | Pass
+Rohit Verma        | 61.00   | Pass
+Priya Nair         | 87.40   | Pass
+Karan Mehta        | 49.00   | Fail
+Sneha Pillai       | 75.60   | Pass
+
+Class Summary:
+Passed students : 4
+Failed students : 1
+Class topper    : Priya Nair (87.4)
+Class average   : 70.32
+
+TASK 4 — String Manipulation Utility
+--------------------------------------------------
+1. Stripped essay:
+python is a versatile language. it supports object oriented, functional, and procedural programming. python is widely used in data science and machine learning.
+
+2. Title Case:
+Python Is A Versatile Language. It Supports Object Oriented, Functional, And Procedural Programming. Python Is Widely Used In Data Science And Machine Learning.
+
+3. Count of 'python':
+2
+
+4. Replaced essay:
+Python 🐍 is a versatile language. it supports object oriented, functional, and procedural programming. Python 🐍 is widely used in data science and machine learning.
+
+5. List of sentences:
+['python is a versatile language', 'it supports object oriented, functional, and procedural programming', 'python is widely used in data science and machine learning.']
+
+6. Numbered sentences:
+1. python is a versatile language.
+2. it supports object oriented, functional, and procedural programming.
+3. python is widely used in data science and machine learning.
 (base) nikitapatwari@Nikitas-MacBook-Air untitled folder % 
